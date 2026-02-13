@@ -1,7 +1,7 @@
 /* infographiq.css */
 .tooltip {
 	font-weight: 600;
-  font-size: 16px;
+  font-size: 3rem;
   color: black;
 }
 
@@ -48,6 +48,13 @@ li {
   font-size: 3rem;
 }
 
+h3 {
+  font-size: 1.5rem;
+}
+
+.modaltext{
+  font-size: 1.5rem;
+}
 
 .switch {
   position: relative;
